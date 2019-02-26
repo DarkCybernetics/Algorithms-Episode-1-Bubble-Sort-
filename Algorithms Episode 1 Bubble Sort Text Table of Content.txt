@@ -1,0 +1,31 @@
+DarkCybernetics Algorithms Complete Series Episode 1: Bubble Sort
+by Dion Jackson
+
+Duration: 30 minutes
+Follow Along With Our Free Course Documentation:
+http://www.darkcybernetics.com/DarkCy...
+
+Episode Table of Contents
+==========================
+Part 1. Bubble Sort and Brute Force Specifications 
+Part 2. Algorithm Design Paradiagms
+Part 3. Data Structures and Programming Techniques
+
+-------------------------------------------------------------------------
+Video Created Under the Creative Commons License.
+-------------------------------------------------------------------------
+
+DarkCybernetics Algorithms Course Series Description:
+------------------------------------------------------ 
+In the DarkCybernetics Algorithms Complete Series Episodes Our Course Objective is to cover the major problem groups of the field : Data Structures, Algorithm Problem Desciptions , Brute Force, Divide N Conquer,Greedy Strategy,Master Theorem ,Simplex Algorithm,Fast Fourier Transform,Taylor Series,Boyer Moore Horspool,AVL Tree,PSpace,
+Reduce and Conquer,Reductions,Computational Complexity ,Np-Hard,Co-Np, NP-Complete, P, P vs NP, etc.
+Programming Challenges,Interview Questions,Mathmatical Induction Proof Steps, Designing and Evaluating the Correctness of Algorithms,
+Approximation Algorithms,Graph Search Algorithms , Mathematical Notation , etc .
+
+-------------------------------------------------------------------------
+Videos Created Under the Creative Commons License.
+-------------------------------------------------------------------------
+
+Learn Play and Discover Computer Science
+www.DarkCybernetics.com
+All Rights Reserved 2017.
